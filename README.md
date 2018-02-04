@@ -1,1 +1,1 @@
-# rusthacks.github.io
+# Rust Hacks website
